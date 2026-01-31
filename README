@@ -1,2 +1,4 @@
-ennerre: C based platform with standard software components for data communication
-over Internet
+ennerre: standard C programming language variant of the hyperion server
+application for client/server encrypted communication into the console. Simple
+to use and install. Project's goal: to be more extensible than the C++ example
+and more practical.
