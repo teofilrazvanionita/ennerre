@@ -1,4 +1,2 @@
-ennerre: standard C programming language variant of the hyperion server
-application for client/server encrypted communication into the console. Simple
-to use and install. Project's goal: to be more extensible than the C++ example
-and more practical.
+ennerre: encrypted communication server for corresponding clients using Internet TCP/IP sockets
+implemented in the C programming language for Linux under tty shell
