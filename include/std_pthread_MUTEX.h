@@ -7,4 +7,6 @@ typedef struct MTX{
 	pthread_mutex_t mtx;
 }STD_PTHREAD_MTX;
 
+void init_MTX(STD_PTHREAD_MTX *p_MTX);
+
 #endif
