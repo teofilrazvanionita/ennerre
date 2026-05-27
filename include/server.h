@@ -8,8 +8,5 @@
 
 #include "become_daemon.h"
 
-static pthread_mutex_t mtx = PTHREAD_MUTEX_INITIALIZER;
-
-
 
 #endif
