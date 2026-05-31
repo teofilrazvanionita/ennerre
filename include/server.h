@@ -4,7 +4,7 @@
 #include <pthread.h>
 
 #define PORT "5999"   /* the PORT clients will be connectting to */
-#define BACKLOG 1024   /* how many pending connections are permitted */
+#define BACKLOG 10000   /* how many pending connections are permitted */
 
 #include "become_daemon.h"
 
